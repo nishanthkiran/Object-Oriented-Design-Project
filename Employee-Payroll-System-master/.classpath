@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Employee-Payroll-System-master/sources"/>
+	<classpathentry kind="lib" path="Employee-Payroll-System-master/Executable JAR/Employee Payroll System.jar"/>
+	<classpathentry kind="lib" path="Employee-Payroll-System-master/Executable JAR/lib/sqlite3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

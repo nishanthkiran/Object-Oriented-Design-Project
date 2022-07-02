@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ForumClient/src"/>
+	<classpathentry kind="src" path="ForumServer/src"/>
+	<classpathentry kind="lib" path="ForumClient/dist/ForumClient.jar"/>
+	<classpathentry kind="output" path="ForumClient/build/classes"/>
+</classpath>
